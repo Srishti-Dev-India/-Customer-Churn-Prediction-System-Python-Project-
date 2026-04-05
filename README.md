@@ -119,23 +119,29 @@ python -m src.processing.clean_data
 python -m src.processing.feature_engineering
 python -m src.models.train_model
 
-📦 Output Files
-cleaned_retail.csv → Cleaned dataset
-rfm_features.csv → ML-ready dataset
+## 📦 Output Files
 
-🧩 Skills Demonstrated
-Data Engineering (ETL pipelines)
-Feature Engineering
-Machine Learning
-Model Evaluation
-Handling Class Imbalance
-Project Structuring (Production style)
+- **cleaned_retail.csv** → Cleaned dataset after preprocessing  
+- **rfm_features.csv** → Machine learning ready dataset with features  
 
-**## 🌟 About Me**
+---
+
+## 🧩 Skills Demonstrated
+
+- Data Engineering (ETL Pipelines)  
+- Feature Engineering  
+- Machine Learning  
+- Model Evaluation  
+- Handling Class Imbalance  
+- Production-style Project Structuring  
+
+---
+
+## 🌟 About Me
 
 Hi, I'm **Srishti Dev** — a **Data Engineer specializing in SQL Server, Python, and Data Warehousing**.  
 
-I approach data handling with a structured, problem-solving mindset—transforming raw data into clean, scalable, and insight-ready systems.
+I approach data handling with a structured, problem-solving mindset — transforming raw data into clean, scalable, and insight-ready systems.
 
 ---
 
@@ -144,6 +150,5 @@ I approach data handling with a structured, problem-solving mindset—transformi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-dev-sr1r1s/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srishti_devv/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srishti.dev.1)
-
 
 
